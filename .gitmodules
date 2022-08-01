@@ -1,0 +1,15 @@
+[submodule "Programs"]
+	path = Programs
+	url = git@github.com:bytemaniak/ESP32_TV_Programs
+[submodule "Libraries"]
+	path = Libraries
+	url = git@github.com:bytemaniak/ESP32_TV_libraries
+[submodule "PythonServer"]
+	path = PythonServer
+	url = git@github.com:bytemaniak/ESP32_TV_server
+[submodule "PCBDesign"]
+	path = PCBDesign
+	url = git@github.com:bytemaniak/ESP32_TV_PCB
+[submodule "ESP32Lib"]
+	path = ESP32Lib
+	url = git@github.com:bytemaniak/ESP32Lib
