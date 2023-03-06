@@ -32,3 +32,7 @@ Weather app:
 Tetris game:
 
 ![Tetris](tetris.jpg)
+
+Long after I finished the dissertation project, I wrote a small game for a gamejam, called "Jewels!", and I thought that it's definitely possible to port it to the ESP32. So a third app was added to the "app store":
+
+![Jewels!](https://drive.google.com/file/d/1ofWBXc3ML1WWl82T-xXP4_15qnRfQxY4/view?usp=sharing)
