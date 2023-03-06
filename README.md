@@ -23,7 +23,7 @@ Downloadable apps menu:
 
 ![Apps](applist.png)
 
-Two apps, a weather app and a Tetris game, have been written as a proof of concept to showcase an "app store", and the ability to install an app to a separate OTA partition on the ESP32.
+Two apps, a weather app and a Tetris game, have been written as a proof of concept to showcase an "app store", and the ability to install an app to a separate OTA partition on the ESP32. A locally hosted Python server acted as the "app store".
 
 Weather app:
 
